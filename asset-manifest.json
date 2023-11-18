@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Event-site/static/css/main.075587e1.css",
+    "main.js": "/Event-site/static/js/main.5d541733.js",
+    "static/js/703.4dcac345.chunk.js": "/Event-site/static/js/703.4dcac345.chunk.js",
+    "static/js/598.f19c51dc.chunk.js": "/Event-site/static/js/598.f19c51dc.chunk.js",
+    "static/media/carousel-5.PNG": "/Event-site/static/media/carousel-5.2be64186ba8b86a4bbf7.PNG",
+    "static/media/conference1.jpg": "/Event-site/static/media/conference1.9142dd1a23b79340948b.jpg",
+    "static/media/about1.jpg": "/Event-site/static/media/about1.402a9662d5a20d285b42.jpg",
+    "static/media/colloque.PNG": "/Event-site/static/media/colloque.2e407a0dc408d9330dd8.PNG",
+    "static/media/colloque2.PNG": "/Event-site/static/media/colloque2.59b5b70f1756f3db9614.PNG",
+    "static/media/Formation3.PNG": "/Event-site/static/media/Formation3.913a2b06ebae080ac964.PNG",
+    "static/media/archive.PNG": "/Event-site/static/media/archive.c2594f9081cb33fa247d.PNG",
+    "static/media/formation1.jpg": "/Event-site/static/media/formation1.e4d36a4425bd4fdb7708.jpg",
+    "static/media/actus.PNG": "/Event-site/static/media/actus.5264b3729c76a4c6f67b.PNG",
+    "static/media/Formation4.PNG": "/Event-site/static/media/Formation4.f36574d922ba6fa6400c.PNG",
+    "static/media/signup1.PNG": "/Event-site/static/media/signup1.7a643f7bd47e3ac579e5.PNG",
+    "static/media/members1.PNG": "/Event-site/static/media/members1.2e53c909cd753f4d06cc.PNG",
+    "static/media/login1.PNG": "/Event-site/static/media/login1.95bdc6789be4c7c0723c.PNG",
+    "static/media/archive1.PNG": "/Event-site/static/media/archive1.969bdc7ca1be665a52bc.PNG",
+    "static/media/Formation5.PNG": "/Event-site/static/media/Formation5.73f81fc977b82c9d4553.PNG",
+    "static/media/about20.jpg": "/Event-site/static/media/about20.4ec9011b037713bb79f9.jpg",
+    "static/media/about.jpg": "/Event-site/static/media/about.5f8b4861689924323c60.jpg",
+    "static/media/logo3.png": "/Event-site/static/media/logo3.2e55e3868f1c23f905e0.png",
+    "static/media/team-1.jpg": "/Event-site/static/media/team-1.df075697e0ef60906dec.jpg",
+    "index.html": "/Event-site/index.html",
+    "main.075587e1.css.map": "/Event-site/static/css/main.075587e1.css.map",
+    "main.5d541733.js.map": "/Event-site/static/js/main.5d541733.js.map",
+    "703.4dcac345.chunk.js.map": "/Event-site/static/js/703.4dcac345.chunk.js.map",
+    "598.f19c51dc.chunk.js.map": "/Event-site/static/js/598.f19c51dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.075587e1.css",
+    "static/js/main.5d541733.js"
+  ]
+}
