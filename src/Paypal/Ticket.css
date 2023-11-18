@@ -1,0 +1,48 @@
+#content {
+    width: 70%;
+}
+
+.ticket-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #f7f7f7;
+  }
+  
+  .event-title {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .event-details {
+    color: #666;
+    font-size: 16px;
+  }
+  
+  .event-info {
+    margin-top: 15px;
+  }
+  
+  .event-info p {
+    margin-bottom: 5px;
+  }
+  
+  .event-date i,
+  .event-location i,
+  .event-price i {
+    margin-right: 5px;
+  }
+  
+  .event-button {
+    background-color: #ff6600;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .event-button:hover {
+    background-color: #ff5500;
+  }
+  
